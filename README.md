@@ -47,13 +47,3 @@ To calculate income tax, include income from all sources. Include:
 ### EMI Calculation: 
 Input the Principalhe Amout, Rate of Interest along with the tenure and get the EMI.
 
-
-
-  
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate. You can contribute to fix bugs, add codes and improve the codes.
-``
-git clone https://github.com/josharsh/Finance-Manager.git
-``
