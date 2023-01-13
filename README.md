@@ -45,5 +45,5 @@ To calculate income tax, include income from all sources. Include:
 * Income from other sources (saving account interest income, fixed deposit interest income, interest income from bonds)
 
 ### EMI Calculation: 
-Input the Principalhe Amout, Rate of Interest along with the tenure and get the EMI.
+Input the Principal Amout, Rate of Interest along with the tenure and get the EMI.
 
